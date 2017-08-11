@@ -1,0 +1,14 @@
+﻿*.iml
+.idea/
+.settings/
+*~
+*.[oa]
+target/
+.svn/
+overlays/
+*/src/test/
+.classpath
+*/.gitignore
+*/.project
+.project
+
